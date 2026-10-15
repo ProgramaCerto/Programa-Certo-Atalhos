@@ -1,0 +1,6 @@
+{
+  "name": "Programa Certo Atalhos",
+  "description": "Painel rápido e intuitivo com os principais atalhos e ferramentas de desenvolvimento, IA e produtividade em tema exclusivo branco e azul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
